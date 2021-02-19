@@ -1,113 +1,127 @@
 {
-  "basics": {
-    "name": "Pranjal Agrawal",
-    "label": "Student",
-    "picture": "https://avatars.githubusercontent.com/u/45527699?s=460&u=011dc65dad00168799f17db3c317182619585d95&v=4",
-    "email": "2018kucp1127@iiitkota.ac.in",
-    "phone": "+917891217760",
-    "website": "https://pranjalagrawal.me",
-    "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.Building awesome WebApp.I have enthusiasm in Blockchain development, and build a decentralized application(DApps) in Blockchain network.",
-    "location": {
-      "address": "Bharatpur",
-      "postalCode": "321404",
-      "city": "Bharatpur",
-      "countryCode": " India",
-      "region": "Rajasthan"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "pranjal85",
-        "url": "https://www.twitter.com/pranjal85"
-      },
-      {
-        "network": "Github",
-        "username": "pranjal1127",
-        "url": "https://www.github.com/pranjal1127/"
-      },
-      {
-        "network": "linkedin",
-        "username": "pranjal85",
-        "url": "https://www.linkedin.com/in/pranjal85/"
-      },
-      {
-        "network": "Instagram",
-        "username": "pranjal85_",
-        "url": "https://instagram.com/pranjal85_"
-      }
-    ]
-  },
-  "work": [
-    {
-      "company": "Eraswap",
-      "position": "Blockchain Developer",
-      "website": "http://eraswap.info",
-      "startDate": "08/2016",
-      "endDate": "",
-      "summary": "Interned at ERASWAP  as a blockchain developer under project ANUBHAV where I worked on smart contracts, conducting Smart contract audits, test the code and deploy smart contracts. I also managed Three Standalone Projects (CertiDApp, SurveyDApp, CharityDApp). ",
-      "highlights": ["SurveyDapp","CharityDapp","CertiDapp"]
-    }
-  ],
-  "volunteer": [{
-    "organization": "Blitzschalag",
-    "position": "Volunteer",
-    "website": "http://blitzschalag.com/",
-    "startDate": "2020-01-01",
-    "endDate": "2020-11-01",
-    "summary": "Description...",
-    "highlights": []
-  }],
-  "education": [
-    {
-      "institution": "Indian Institute of Information technology,kota",
-      "area": "Engineering",
-      "studyType": "Bachelor (hons)",
-      "startDate": "08/2018",
-      "endDate": "07/2022",
-      "gpa": "8.5/10",
-      "courses": ["Computer Science & Engineering"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Smart India Hackathon 2020",
-      "awarder": "MHRD",
-      "date": "21-aug-2020"
-    }
-  ],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Front End Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "React",
-        "Solidity",
-        "MySQL",
-        "Git",
-        "C/C++",
-        "Python"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Singing",
-      "keywords": ["Guitar","Flute"]
-    },
-    {
-      "name": "Playing",
-      "keywords": ["Chess","Badminton"]
-    }
-  ],
-  "references": []
+"basics": {
+"name": "Pranjal Agrawal",
+"label": "Student",
+"picture": "https://avatars.githubusercontent.com/u/45527699?s=460&u=011dc65dad00168799f17db3c317182619585d95&v=4",
+"email": "2018kucp1127@iiitkota.ac.in",
+"phone": "+917891217760",
+"website": "https://pranjalagrawal.me",
+"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.Building awesome WebApp.I have enthusiasm in Blockchain development, and build a decentralized application(DApps) in Blockchain network.",
+"location": {
+"address": "Bharatpur",
+"postalCode": "321404",
+"city": "Bharatpur",
+"countryCode": " India",
+"region": "Rajasthan"
+},
+"profiles": [
+{
+"network": "Twitter",
+"username": "pranjal85",
+"url": "https://www.twitter.com/pranjal85"
+},
+{
+"network": "Github",
+"username": "pranjal1127",
+"url": "https://www.github.com/pranjal1127/"
+},
+{
+"network": "linkedin",
+"username": "pranjal85",
+"url": "https://www.linkedin.com/in/pranjal85/"
+},
+{
+"network": "Instagram",
+"username": "pranjal85_",
+"url": "https://instagram.com/pranjal85_"
+}
+]
+},
+"work": [
+{
+"company": "Eraswap",
+"position": "Blockchain Developer",
+"website": "http://eraswap.info",
+"startDate": "2020-08-04",
+"endDate": "2021-01-09",
+"summary": "Interned at ERASWAP  as a blockchain developer under project ANUBHAV where I worked on smart contracts, conducting Smart contract audits, test the code and deploy smart contracts. I also managed Three Standalone Projects (CertiDApp, SurveyDApp, CharityDApp). ",
+"highlights": [
+"SurveyDapp",
+"CharityDapp",
+"CertiDapp"
+]
+}
+],
+"volunteer": [
+{
+"organization": "Blitzschalag",
+"position": "Volunteer",
+"website": "http://blitzschalag.com/",
+"startDate": "2020-01-01",
+"endDate": "2020-11-01",
+"summary": "Description...",
+"highlights": []
+}
+],
+"education": [
+{
+"institution": "Indian Institute of Information technology,kota",
+"area": "Engineering",
+"studyType": "Bachelor (hons)",
+"startDate": "2018-04-08",
+"endDate": "2022-11-07",
+"gpa": "8.5",
+"courses": [
+"Computer Science & Engineering"
+]
+}
+],
+"awards": [
+{
+"title": "Smart India Hackathon 2020",
+"awarder": "MHRD",
+"date": "2020-08-21"
+}
+],
+"publications": [],
+"skills": [
+{
+"name": "Front End Development",
+"level": "Master",
+"keywords": [
+"HTML",
+"CSS",
+"Javascript",
+"React",
+"Solidity",
+"MySQL",
+"Git",
+"C/C++",
+"Python"
+]
+}
+],
+"languages": [
+{
+"language": "English",
+"fluency": "Native speaker"
+}
+],
+"interests": [
+{
+"name": "Singing",
+"keywords": [
+"Guitar",
+"Flute"
+]
+},
+{
+"name": "Playing",
+"keywords": [
+"Chess",
+"Badminton"
+]
+}
+],
+"references": []
 }

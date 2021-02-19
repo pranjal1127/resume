@@ -6,7 +6,7 @@
     "email": "2018kucp1127@iiitkota.ac.in",
     "phone": "+917891217760",
     "website": "https://pranjalagrawal.me",
-    "summary": "Over the past 2 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. My current role at IAG is Senior Front End Developer (or Senior Software Engineer as IAG prefer to label us) and have been developing with React and Redux for the past 4 years.",
+    "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.Building awesome WebApp.I have enthusiasm in Blockchain development, and build a decentralized application(DApps) in Blockchain network.",
     "location": {
       "address": "Bharatpur",
       "postalCode": "321404",
@@ -17,13 +17,23 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "jonbloomer",
-        "url": ""
+        "username": "pranjal85",
+        "url": "https://www.twitter.com/pranjal85"
       },
       {
         "network": "Github",
-        "username": "freaksauce",
-        "url": ""
+        "username": "pranjal1127",
+        "url": "https://www.github.com/pranjal1127/"
+      },
+      {
+        "network": "linkedin",
+        "username": "pranjal85",
+        "url": "https://www.linkedin.com/in/pranjal85/"
+      },
+      {
+        "network": "Instagram",
+        "username": "pranjal85_",
+        "url": "https://instagram.com/pranjal85_"
       }
     ]
   },
@@ -34,37 +44,35 @@
       "website": "http://eraswap.info",
       "startDate": "08/2016",
       "endDate": "",
-      "summary": "I am currently working as a senior front end developer on IAG's Chroma Design System team, however or are being built using React/Redux running on top of a Node Express Server and interfacing with an API backend architecture to access the various IAG systems. We are always striving to increase the quality of our projects with good test coverage and code reviews.",
-      "highlights": []
+      "summary": "Interned at ERASWAP  as a blockchain developer under project ANUBHAV where I worked on smart contracts, conducting Smart contract audits, test the code and deploy smart contracts. I also managed Three Standalone Projects (CertiDApp, SurveyDApp, CharityDApp). ",
+      "highlights": ["SurveyDapp","CharityDapp","CertiDapp"]
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
+    "organization": "Blitzschalag",
     "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
+    "website": "http://blitzschalag.com/",
+    "startDate": "2020-01-01",
+    "endDate": "2020-11-01",
     "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
+    "highlights": []
   }],
   "education": [
     {
-      "institution": "Birmingham Conservatoire",
-      "area": "Music",
+      "institution": "Indian Institute of Information technology,kota",
+      "area": "Engineering",
       "studyType": "Bachelor (hons)",
-      "startDate": "08/1994",
-      "endDate": "07/1998",
-      "gpa": "",
-      "courses": []
+      "startDate": "08/2018",
+      "endDate": "07/2022",
+      "gpa": "8.5/10",
+      "courses": ["Computer Science & Engineering"]
     }
   ],
   "awards": [
     {
-      "title": "Defender of the Internet",
-      "awarder": "Fight For The Future",
-      "date": "21-feb-2020"
+      "title": "Smart India Hackathon 2020",
+      "awarder": "MHRD",
+      "date": "21-aug-2020"
     }
   ],
   "publications": [],
@@ -76,35 +84,12 @@
         "HTML",
         "CSS",
         "Javascript",
-        "ES2015",
-        "ES2016",
-        "ES2017",
-        "ES2018",
-        "ES2019",
-        "ES6",
         "React",
-        "jQuery",
-        "SASS",
-        "LESS",
-        "AWS",
-        "Github",
-        "Webpack",
-        "Handlebars",
-        "Gulp",
-        "Grunt",
-        "Babel",
-        "CircleCI",
-        "TravisCI",
-        "Heroku",
-        "CI",
-        "CD",
-        "Bootstrap",
-        "Node",
-        "php",
+        "Solidity",
         "MySQL",
         "Git",
-        "Jira",
-        "Responsive"
+        "C/C++",
+        "Python"
       ]
     }
   ],
@@ -118,6 +103,10 @@
     {
       "name": "Singing",
       "keywords": ["Guitar","Flute"]
+    },
+    {
+      "name": "Playing",
+      "keywords": ["Chess","Badminton"]
     }
   ],
   "references": []

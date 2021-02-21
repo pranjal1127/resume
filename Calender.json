@@ -1,16 +1,16 @@
 {
-"Events" : [
-  {
-    "title": "All-day event",
-    "start": "2021-02-05",
-  },
-  {
-    "title": "Timed event",
-    "start": "2021-02-21T12:15:00",
-  },
+  "Events" : [
     {
-    "title": "Robotics Club Event",
-    "start": "2021-02-21T12:15:00",
-  },
-]
+      "title": "All-day event",
+      "start": "2021-02-05"
+    },
+    {
+      "title": "Timed event",
+      "start": "2021-02-21T12:15:00"
+    },
+      {
+      "title": "Robotics Club Event",
+      "start": "2021-02-21T12:15:00"
+    }
+  ]
 }

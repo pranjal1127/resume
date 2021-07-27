@@ -1,115 +1,96 @@
 {
 "basics": {
-"name": "---Enter Your Name---",
-"label": "Student",
-"picture": "---Enter Image URL----",
-"email": "---Enter Email ID---",
-"phone": "---Enter Mobile Number---",
-"website": "---Enter Link of website(if any) ---",
-"summary": "---Tell Something about yourself ---",
-"location": {
-"address": "---",
-"postalCode": "---",
-"city": "---",
-"countryCode": "India",
-"region": "---State Name---"
-},
-"profiles": [
-{
-"network": "Twitter",
-"username": "handle",
-"url": "https://www.twitter.com/<handle>"
-},
-{
-"network": "Github",
-"username": "handle",
-"url": "https://www.github.com/<handle>/"
-},
-{
-"network": "linkedin",
-"username": "username",
-"url": "https://www.linkedin.com/in/<username>/"
-},
-{
-"network": "Instagram",
-"username": "handle",
-"url": "https://instagram.com/<handle>"
-}
-]
+  "name": "Pranjal Agrawal",
+  "label": "Student",
+  "picture": "https://avatars.githubusercontent.com/u/45527699?s=460&u=011dc65dad00168799f17db3c317182619585d95&v=4",
+  "email": "2018kucp1127@iiitkota.ac.in",
+  "phone": "+917891217760",
+  "website": "https://pranjalagrawal.me",
+  "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.Building awesome WebApp.I have enthusiasm in Blockchain development, and build a decentralized application(DApps) in Blockchain network.",
+  "location": {
+    "address": "Bharatpur",
+    "postalCode": "321404",
+    "city": "Bharatpur",
+    "countryCode": " India",
+    "region": "Rajasthan"
+    },
+  "profiles": [
+    {
+      "network": "Twitter",
+      "username": "pranjal85",
+      "url": "https://www.twitter.com/pranjal85"
+    },
+    {
+      "network": "Github",
+      "username": "pranjal1127",
+      "url": "https://www.github.com/pranjal1127/"
+    },
+    {
+      "network": "linkedin",
+      "username": "pranjal85",
+      "url": "https://www.linkedin.com/in/pranjal85/"
+    },
+    {
+      "network": "Instagram",
+      "username": "pranjal85_",
+      "url": "https://instagram.com/pranjal85_"
+    }
+  ]
 },
 "work": [
-{
-"company": "---",
-"position": "----",
-"website": "----",
-"startDate": "2020-08-04//Take care about Date Format",
-"endDate": "Date // ",
-"summary": "---Tell me something About Org. --- ",
-"highlights": [
-"Add Highlights",
-"Your work details"
-]
-}
+  {
+  "company": "Eraswap",
+  "position": "Blockchain Developer",
+  "website": "http://eraswap.info",
+  "startDate": "2020-08-04",
+  "endDate": "2021-01-09",
+  "summary": "Interned at ERASWAP  as a blockchain developer under project ANUBHAV where I worked on smart contracts, conducting Smart contract audits, test the code and deploy smart contracts. I also managed Three Standalone Projects (CertiDApp, SurveyDApp, CharityDApp). ",
+  "highlights": [  "SurveyDapp",  "CharityDapp",  "CertiDapp"  ]
+  }
 ],
 "volunteer": [
-{
-"organization": "---Name Org ---",
-"position": "---Add ---",
-"website": "---",
-"startDate": "2020-01-01 // Note Date Format",
-"endDate": "---",
-"summary": "Description...",
-"highlights": []
-}
+  {
+    "organization": "Blitzschalag",
+    "position": "Volunteer",
+    "website": "http://blitzschalag.com/",
+    "startDate": "2020-01-01",
+    "endDate": "2020-11-01",
+    "summary": "Description...",
+    "highlights": []
+  }
 ],
 "education": [
-{
-"institution": "Indian Institute of Information technology,kota",
-"area": "Engineering",
-"studyType": "Bachelor (hons)",
-"startDate": "2018-04-08 //Date",
-"endDate": "----",
-"gpa": "---Add your CGPA ---",
-"courses": [
-"Computer Science & Engineering"
-]
-}
+  {
+  "institution": "Indian Institute of Information technology,kota",
+  "area": "Engineering",
+  "studyType": "Bachelor (hons)",
+  "startDate": "2018-04-08",
+  "endDate": "2022-11-07",
+  "gpa": "8.5",
+   "courses": [
+    "Computer Science & Engineering"
+    ]
+  }
 ],
 "awards": [
-{
-"title": "--Title---",
-"awarder": "---Receiverd By ---",
-"date": "2020-08-21//Date"
-}
+  {
+  "title": "Smart India Hackathon 2020",
+  "awarder": "MHRD",
+  "date": "2020-08-21"
+  }
 ],
-"publications": [
-{
-"title": "---Enter Title---",
-"details": "---Enter Details---",
-"link": "---github/website link to show your work---"
-}
-],
+"publications": [],
 "skills": [
-{
-"level": "Master",
-"keywords": [
-"HTML",
-"CSS",
-"Javascript",
-"React",
-"C/C++",
-"Add more"
-]
-}
+  {
+  "level": "Master",
+  "keywords": [  "HTML",  "CSS",  "Javascript",  "React",  "Solidity",  "MySQL",  "Git",  "C/C++",  "Python"  ]
+  }
 ],
 "interests": [
-{
-"name": "Sports",
-"keywords": [
-"Chess",
-"Badminton"
-]
-}
+  {
+  "name": "Sports",
+  "keywords": ["Chess","Badminton"]
+  }
 ],
 "references": []
 }

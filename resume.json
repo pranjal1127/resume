@@ -79,7 +79,13 @@
   "date": "2020-08-21"
   }
 ],
-"publications": [],
+"publications": [
+  {
+    "title" : "CertiDapp",
+    "details" : "CertiDApp utilizes Elliptic Curve Cryptography and Ethereum Blockchain`s Immutability and IPFS Decentralized file storage to feature transparent verification of certificates. Users can issue certificates onceissuers account termed to be KYC approved along with their documents accessible through CertiDApp Portal so that anyone can verify the validity of certificates and certificate issuer",
+    "link" : "https://certidapp.com/"
+  }
+],
 "skills": [
   {
   "level": "Master",

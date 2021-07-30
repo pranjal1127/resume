@@ -45,18 +45,7 @@
   "startDate": "2020-08-04",
   "endDate": "2021-01-09",
   "summary": "Interned at ERASWAP  as a blockchain developer under project ANUBHAV where I worked on smart contracts, conducting Smart contract audits, test the code and deploy smart contracts. I also managed Three Standalone Projects (CertiDApp, SurveyDApp, CharityDApp). ",
-  "highlights": [  "SurveyDapp",  "CharityDapp",  "CertiDapp"  ]
-  }
-],
-"volunteer": [
-  {
-    "organization": "Blitzschalag",
-    "position": "Volunteer",
-    "website": "http://blitzschalag.com/",
-    "startDate": "2020-01-01",
-    "endDate": "2020-11-01",
-    "summary": "Description...",
-    "highlights": []
+  "highlights": [  "SurveyDapp",  "CharityDapp",  "CertiDapp" , "ESCloud" ]
   }
 ],
 "education": [
@@ -64,9 +53,9 @@
   "institution": "Indian Institute of Information technology,kota",
   "area": "Engineering",
   "studyType": "Bachelor (hons)",
-  "startDate": "2018-04-08",
-  "endDate": "2022-11-07",
-  "gpa": "8.5",
+  "startDate": "Aug 2018",
+  "endDate": "May 2022",
+  "gpa": "8.36",
    "courses": [
     "Computer Science & Engineering"
     ]
@@ -74,7 +63,7 @@
 ],
 "awards": [
   {
-  "title": "Smart India Hackathon 2020",
+  "title": "Finalist At Smart India Hackathon 2020",
   "awarder": "MHRD",
   "date": "2020-08-21"
   }
@@ -82,8 +71,23 @@
 "publications": [
   {
     "title" : "CertiDapp",
-    "details" : "CertiDApp utilizes Elliptic Curve Cryptography and Ethereum Blockchain`s Immutability and IPFS Decentralized file storage to feature transparent verification of certificates. Users can issue certificates onceissuers account termed to be KYC approved along with their documents accessible through CertiDApp Portal so that anyone can verify the validity of certificates and certificate issuer",
-    "link" : "https://certidapp.com/"
+    "details" : "A Decentralized App, for issuing and verifying certificates. CertiDApp utilizes Elliptic Curve cryptography and Ethereum Blockchain’s immutability, IPFS decentralized file storage to feature transparent verification of certificates.",
+    "link" : "https://github.com/pranjal1127/CertiDapp"
+  },
+  {
+    "title" : "CharityDapp",
+    "details" : "Charity DApp is a digital platform built with the objective of re-imagining a non-profit organization by merging Smart Contracts, and distributed blockchain technology – Era Swap Decentralized Blockchain Network.",
+    "link" : "https://charitydapp.com/"
+  },
+    {
+    "title" : "ApniDukan",
+    "details" : "Build an eCommerce App and publish on google play for online shopping in remote areas.",
+    "link" : "https://play.google.com/store/apps/details?id=com.apnidukan.ecommerce"
+  },
+  {
+    "title" : "ESCloud",
+    "details" : "Developed an IPFS based decentralized platform for storing files.All files hash are stored by smart contract and which breaks the need of middleman platform.",
+    "link" : "https://eraswap.cloud/"
   }
 ],
 "skills": [
